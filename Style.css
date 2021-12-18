@@ -1,0 +1,163 @@
+body{
+    color: black(109, 109, 109);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.Content{   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    width: 100%;
+    height: 100vh;
+    
+}
+
+.prop-card {
+    background: url(img/maneskin.png) center/cover;;
+    border-radius: 20px;
+    box-shadow: 0px 2px 23px #1927543b;
+}
+
+
+.House {
+    /* background: url(img/house.jpg) center/cover; */
+    height: 200px;
+    width: 100%;
+    border-radius: 10px 10px 0px 0px;
+    margin-bottom: 150px;
+    
+}
+
+
+.Media {
+    /* align-items: center;
+    align-content: center;
+    margin: 50px;
+    padding-top: 30px; */
+    /* padding-left: -50px; */
+         
+}
+
+/* .ammenities{
+    align-items: center;
+    display: flex;
+    padding-top: 5px;
+    padding-right: 20px;
+    margin: 2px;
+} */
+
+.Contact{
+    /* float: left; */
+    margin-left: 15px;
+    margin-bottom: 3px;
+    align-content: center;
+}
+
+/* .icons{
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    border-radius: 0 0 10px 10px;  
+    padding-left: 20px;
+    margin-top: -9px;
+    padding-top: 1px;
+    padding-bottom: 8px;   
+ } */
+
+
+/* #img_round{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+} */
+
+.Image{
+    /* float: left; */
+    align-content: center;
+    margin-left: 105px;
+    margin-top: 15px;
+    padding-bottom: 40px;   
+    color: #ffff;
+}
+
+.Name{
+    /* padding-top: 15px; */
+    padding-left: 50px;
+    color: white;
+    
+}
+
+.Heart {
+    display: flex;
+    align-items: center;
+    float: right;
+    margin-top: 390px;
+    margin-right: 45px;
+    color: #ffff;
+}
+
+
+
+.Number{
+    margin-top: 25px;
+    padding-left: 30px; 
+    padding-bottom: 10px;
+    color: #ffff;
+}
+
+h1{
+    font-size: 15px;
+    /* margin-right: 100px; */
+    margin-bottom: 2px;
+    color: #ffff;
+}
+
+h2{
+    font-size: 25px;
+    font-family: 'Roboto', sans-serif;
+    margin-top: -5px;
+    color: white;
+}
+h3{
+    font-size: 13px;
+}
+h4{
+    font-size: 18px;
+}
+
+p{
+    margin-top: -25px;
+    color: #ffff;
+}
+
+
+hr{
+    color: #ffff;
+    border-color: #ffff;
+    border-width: 8px;
+    margin-top: -5px;
+}
+
+ul{
+    align-items: center;
+    align-content: center;
+    padding-top: 2px;
+    padding-bottom: 5px;
+    padding-right: 100px;
+    color: #ffff;
+}
+
+button{
+    display: flex;
+    margin-left: 150px;
+    margin-bottom: 10px;
+}
+
+input {
+    display: flex;
+    align-content: center;
+    color: #ffff;
+    margin-bottom: 10px;
+    /* margin-right: 150px; */
+    margin-left: 100px;
+}
